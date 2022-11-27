@@ -4,14 +4,17 @@
 <br><br><br>
 
 # MOVIE SPOTTER
-<img src="../image/mini_logo.png" width="30%" height="30%"/>
+<img src="/image/mini_logo.png" width="30%" height="30%"/>
 
 <hr>
 
 ## 업무분담
-![역할분담](../image/역할분담1.png)
-![역할분담](../image/역할분담2.png)
-![역할분담](../image/역할분담3.png)
+<img src="/image/역할분담1.png" width="50%" height="50%"/>
+
+<img src="/image/역할분담2.png" width="50%" height="50%"/>
+
+<img src="/image/역할분담3.png" width="50%" height="50%"/>
+
 <br>
 
 ### 📑최김박 프로젝트 노션 (https://www.notion.so/a-k-a-a5ea666ed3c948caaaaaf72b41db66ec)
@@ -36,19 +39,19 @@
 <br>
 
 ## 🛠 데이터 베이스 모델링 (ERD)
-![erd](../image/erd.png)
+![erd](/image/erd.png)
 <br>
 
 ## 🗺 사이트 맵
-![sitemap](../image/sitemap.png)
+![sitemap](/image/sitemap.png)
 <br>
 
 ## 🎨 UX/UI 설계
-![uxui](../image/uxui.png)
+![uxui](/image/uxui.png)
 <br>
 
 ## 💻URL 명세
-<img src="../image/url.png" width="50%" height="50%"/>
+<img src="/image/url.png" width="50%" height="50%"/>
 <br>
 
 ## 서비스 기능
